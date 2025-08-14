@@ -2,11 +2,11 @@
   {
     "category": "General",
     "guid": "afe1de9c-63e4-4692-8d8c-7c964df19eb2",
-    "name": "Theme Songs",
+    "name": "Advanced Theme Songs",
     "overview": "Theme Songs plugin for Jellyfin with custom path support",
     "description": "Play theme songs when browsing your media library. Now with support for custom centralized theme song storage and exclusive custom path mode.",
     "owner": "GEngines",
-    "imageUrl": "https://raw.githubusercontent.com/GEngines/JellyfinPluginManifest/main/thumb.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/GEngines/JellyfinPluginManifest/main/advanced_theme_songs.jpg",
     "versions": [
       {
         "version": "1.1.1.0",
